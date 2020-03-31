@@ -50,15 +50,14 @@
       <nav class="nav-menu d-none d-lg-block">
         <ul>
           <li class="active"><a href="/">Home</a></li>
-          <li><a href="https://forms.gle/TcofPQWxwZYyEJXF8">Daftar</a></li>
+          <li><a href="https://forms.gle/dDEsND7ZANNXCmrz8">Daftar</a></li>
         </ul>
       </nav><!-- .nav-menu -->
 
       <div class="header-social-links">
         <a href="#" class="twitter"><i class="icofont-twitter"></i></a>
-        <a href="#" class="facebook"><i class="icofont-facebook"></i></a>
+        <a href="https://www.facebook.com/groups/1499446273665034/?ref=bookmarks" class="facebook"><i class="icofont-facebook"></i></a>
         <a href="#" class="instagram"><i class="icofont-instagram"></i></a>
-        <a href="#" class="linkedin"><i class="icofont-linkedin"></i></i></a>
       </div>
 
     </div>
@@ -73,7 +72,7 @@
         <div>
             <h1>Selamat Datang Di Website PPDB Online</h1>
             <h2>SMP Darut Tauhid Tambakboyo Tahun Pelajaran 2020/2021</h2>
-            <a href="https://forms.gle/TcofPQWxwZYyEJXF8" class="btn-get-started scrollto">Daftar Sekarang</a>
+            <a href="https://forms.gle/dDEsND7ZANNXCmrz8" class="btn-get-started scrollto">Daftar Sekarang</a>
         </div>
         </div>
         <div class="col-lg-6 order-1 order-lg-2 hero-img" data-aos="fade-left">
@@ -101,14 +100,14 @@
                 Ditengah merebaknya pandemi virus Covid-19 di Indonesia akhir-akhir ini. Untuk memudahkan calon peserta didik baru dalam melakukan pendaftaran, maka kami meyediakan pelayanan pendaftaran peserta didik baru mode online atau daring dengan alur pendaftaran sebagai berikut :  
             </p>
             <ul>
-                <li><i class="icofont-check-circled"></i> Mengisi formulir pendaftaran online dengan melampirkan foto/scan berkas persyaratan</li>
-                <li><i class="icofont-check-circled"></i> Mengikuti test observasi/masuk online sesuai dengan jadwal yang telah ditentukan</li>
+                <li><i class="icofont-check-circled"></i> Mengisi formulir pendaftaran online</li>
+                <li><i class="icofont-check-circled"></i> Setelah melakukan pengisian formulir online dan kirim data, Screenshot halaman konfirmasi sebagai bukti pendaftaran</li>
                 <li><i class="icofont-check-circled"></i> Menerima pengumuman</li>
                 <li><i class="icofont-check-circled"></i> Melakukan daftar ulang</li>
                 <li><i class="icofont-check-circled"></i> Masuk kegiatan belajar mengajar</li>
             </ul>
             <p>
-                Selain pendaftaran mode online atau daring, kami juga masih melayani pendaftaran offline/luring dengan datag langsung ke sekretariat pendaftaran (Kantor SMP Darut Tauhid Tambakboyo).
+                Selain pendaftaran mode online atau daring, kami juga masih melayani pendaftaran offline/luring dengan datang langsung ke sekretariat pendaftaran (Kantor SMP Darut Tauhid Tambakboyo).
             </p>
             </div>
         </div>
@@ -117,71 +116,6 @@
     </div>
     </section><!-- End About Section -->
 
-    <!-- ======= Team Section ======= -->
-    <!-- <section id="team" class="team">
-    <div class="container">
-
-        <div class="section-title" data-aos="fade-up">
-        <h2>Dewan Pengajar</h2>
-        <p>Tenaga pengajar yang berkompeten dalam bidangnya</p>
-        </div>
-
-        <div class="row">
-
-        <div class="col-lg-4 col-md-6">
-            <div class="member" data-aos="zoom-in">
-            <div class="pic"><img src="assets/img/team/team-1.jpg" class="img-fluid" alt=""></div>
-            <div class="member-info">
-                <h4>Moch. Munir, S.E.</h4>
-                <span>Kepala Sekolah</span>
-                <div class="social">
-                <a href=""><i class="icofont-twitter"></i></a>
-                <a href=""><i class="icofont-facebook"></i></a>
-                <a href=""><i class="icofont-instagram"></i></a>
-                <a href=""><i class="icofont-linkedin"></i></a>
-                </div>
-            </div>
-            </div>
-        </div>
-
-        <div class="col-lg-4 col-md-6">
-            <div class="member" data-aos="zoom-in" data-aos-delay="100">
-            <div class="pic"><img src="assets/img/team/team-2.jpg" class="img-fluid" alt=""></div>
-            <div class="member-info">
-                <h4>Habibul Lubab, S.Pd.</h4>
-                <span>Waka Kurikulum & Guru Bahasa Inggris</span>
-                <div class="social">
-                <a href=""><i class="icofont-twitter"></i></a>
-                <a href=""><i class="icofont-facebook"></i></a>
-                <a href=""><i class="icofont-instagram"></i></a>
-                <a href=""><i class="icofont-linkedin"></i></a>
-                </div>
-            </div>
-            </div>
-        </div>
-
-        <div class="col-lg-4 col-md-6">
-            <div class="member" data-aos="zoom-in" data-aos-delay="200">
-            <div class="pic"><img src="assets/img/team/team-3.jpg" class="img-fluid" alt=""></div>
-            <div class="member-info">
-                <h4>Ali Ghufron, S.Pd.</h4>
-                <span>Waka Kesiswaan & Guru IPS</span>
-                <div class="social">
-                <a href=""><i class="icofont-twitter"></i></a>
-                <a href=""><i class="icofont-facebook"></i></a>
-                <a href=""><i class="icofont-instagram"></i></a>
-                <a href=""><i class="icofont-linkedin"></i></a>
-                </div>
-            </div>
-            </div>
-        </div>
-
-        </div>
-
-    </div>
-    </section> -->
-
-    <!-- End Team Section -->
     </main><!-- End #main -->
 
   <!-- ======= Footer ======= -->
